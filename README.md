@@ -6,7 +6,7 @@ A complete, modern, and fully functional **Food Delivery App UI design** made in
 
 ---
 
-## 🔗 Figma Design Access( Onl;y View)
+## 🔗 Figma Design Access( Only View)
 
 👉 [Click here to view the full Figma design]([https://www.figma.com/design/TLjwi1KhCnFliwxjEOF2Jo/Untitled?m=auto&t=eDBDB2lIa39R64UU-6](https://www.figma.com/design/TLjwi1KhCnFliwxjEOF2Jo/Untitled?m=auto&t=eDBDB2lIa39R64UU-6))
 
