@@ -1,7 +1,5 @@
 # 🍔 Food Delivery App - Figma UI/UX Design
 
-![Food Delivery App](./Cover.png)
-
 A complete, modern, and fully functional **Food Delivery App UI design** made in **Figma** – perfect for startups, developers, or designers looking to build a complete food ordering experience. This project covers everything from login, browsing restaurants, ordering food, tracking delivery, Notification and managing user profiles.
 
 ---
